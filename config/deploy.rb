@@ -1,7 +1,7 @@
 set :stages, %w(staging production)
 set :default_stage, "production"
 
-set :application, "copytestapp"
+set :application, "copy_testapp"
 set :deploy_in, "/home/barouf/app.dglaymann.com"
 
 set :scm, :git
