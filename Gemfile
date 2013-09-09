@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
-#gem 'copy', github: 'franck/copy'
-gem 'copy', path: '~/webdesign/sandbox/copy/src'
+gem 'copy', github: 'franck/copy'
+#gem 'copy', path: '~/webdesign/sandbox/copy/src'
 
 # Using mongodb for storage? Uncomment these:
 #
