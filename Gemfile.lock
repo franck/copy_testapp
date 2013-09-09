@@ -1,5 +1,6 @@
-PATH
-  remote: ~/webdesign/sandbox/copy/src
+GIT
+  remote: git://github.com/franck/copy.git
+  revision: 40fffc3220a0fb81ba93c0b5b49c9ff54a9e70c9
   specs:
     copy (0.2.0)
       redcarpet (~> 2.2.2)
